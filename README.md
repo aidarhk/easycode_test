@@ -23,13 +23,8 @@
 ```bash
 echo "BOT_TOKEN=your_token_here" > .env
 ```
-2. Создай .env:
 
-```bash
-BOT_TOKEN=your_bot_token_here
-```
-
-3. Запуск
+2. Запуск
 ```bash
 docker-compose up -d --build
 ```
